@@ -1,12 +1,14 @@
 {
-    "name": "com.itisnotonlyme.nombre",
-    "version": "1.0.0",
-    "displayName": "Nombre Lindo",
-    "description": "Descripcion linda",
+    "name": "com.itisnotonlyme.simulacion-discreta",
+    "version": "0.0.1",
+    "displayName": "Simulacion discreta",
+    "description": "Esta simulacion intenta recrear cualquier conjunto de elementos interactuando",
     "unity": "2020.3",
     "keywords": [
-      "Key", 
-      "Words"
+      "Simulacion", 
+      "discreta",
+      "Falling sand",
+      "Fisicas"
     ],
     "author": {
       "name": "Juan Ignacio Biancuzzo",

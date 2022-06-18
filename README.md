@@ -1,2 +1,5 @@
-# Unity-Packages
-Este repositorio va a tener todos los packages que vaya creando para crear mis juegos
+# Simulacion discreta
+---
+
+La intencion de esta simulacion es crear un simulacion lo suficientemente realista, y eficiente. Esto representado en una grilla de 3 dimensiones.
+
